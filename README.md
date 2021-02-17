@@ -8,4 +8,4 @@ Github上で更新
 かきくけこ  
 さしすせそ  
 リベース用  
-stash練習
+stash(3nd)
